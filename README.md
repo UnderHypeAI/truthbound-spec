@@ -8,7 +8,7 @@ Truthbound is an open protocol for checkable technology evidence.
 - Version 0.2 (PDF): [spec/truthbound-defensive-disclosure-v0.2.pdf](spec/truthbound-defensive-disclosure-v0.2.pdf)
   - SHA-256: `a8aa4b70547880f137c952ed2b547f6da147096ea7d119bcc5dac4c6fca9c900`
   - OpenTimestamps proof: [spec/truthbound-defensive-disclosure-v0.2.pdf.ots](spec/truthbound-defensive-disclosure-v0.2.pdf.ots)
-- Technical Disclosure Commons: pending
+- Defensive publication: Technical Disclosure Commons, https://www.tdcommons.org/dpubs_series/13154
 
 ## License
 
